@@ -1,0 +1,66 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.campus_mainDiv
+{
+
+border: 1px solid #c7c7c7;
+padding-left: 0px;
+padding-right: 0px;
+float: none;
+    
+}
+
+.campus_mainDiv img
+{
+   width: 100p%;
+}
+
+.campus_mainDiv hr
+{
+    width: 230px;
+}
+
+.campus_mainDiv h5, .travel_mainDiv p
+{
+    margin-left: 20px;
+}
+
+.movie_head 
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10 px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+  float:right;
+}
+
+.movie_text span
+{
+    color: #ff7700;
+}
+
+body{
+    text-align: center;
+}
